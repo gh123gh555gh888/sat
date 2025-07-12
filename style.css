@@ -109,34 +109,7 @@ footer {
     height: 35%;
     padding: 10px;
 }
-.img11 {
-    position: absolute;
-    top: 10%;
-    left: 5px;
-}
-.h1::before {
-    content: url("romb.jpg");
-    display: inline-block;
-    width: 5px;
-    height: 5px;
-}
-.h1::after {
-    content: url("romb.jpg");
-    display: inline-block;
-    width: 5px;
-    height: 5px;
-}
-.address::before {
-    content: url("basic_flat_house_flat_vector.jpg");
-    width: 5px;
-    height: 5px;
 
-}
-.tel::before {
-    content: url("tel.jpg");
-    width: 5px;
-    height: 5px;
-}
 .nav-link:hover {
     border: 1px solid lightgray;
     border-radius: 20%;
